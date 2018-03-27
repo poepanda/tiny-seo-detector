@@ -1,0 +1,39 @@
+{
+  "name": "tiny-seo-detector",
+  "version": "0.0.1",
+  "description": "A simple SEO defect detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "precommit": "npm run lint"
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poepanda/tiny-seo-detector.git"
+  },
+  "keywords": [
+    "seo",
+    "defects",
+    "detector"
+  ],
+  "author": "Poe Nguyen <me.tanpoe@gmail.com> (https://tanpoe.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poepanda/tiny-seo-detector/issues"
+  },
+  "homepage": "https://github.com/poepanda/tiny-seo-detector#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "jest": "^22.4.3"
+  }
+}
