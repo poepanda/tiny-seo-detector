@@ -1,6 +1,0 @@
-There are 2 <img> without alt attribute
-There are 2 <a> without rel attribute
-This HTML without <meta name="description"/> tag
-This HTML without <meta name="keywords"/> tag
-This HTML have more than one <h1> tag
-This HTML have more than 3 <h2/> tag
