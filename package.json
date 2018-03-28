@@ -13,10 +13,14 @@
     "node": true
   },
   "jest": {
-    "collectCoverageFrom": [ "**/lib/**/*.js" ],
+    "collectCoverageFrom": [
+      "**/lib/**/*.js"
+    ],
     "collectCoverage": true,
     "coverageDirectory": "./coverage",
-    "roots": [ "test/" ]
+    "roots": [
+      "test/"
+    ]
   },
   "repository": {
     "type": "git",
@@ -40,6 +44,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
+    "coveralls": "^3.0.0",
     "eslint": "^4.19.1",
     "jest": "^22.4.3"
   }
