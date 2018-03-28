@@ -4,6 +4,9 @@
 <h5 align="center">A simple, flexible and configurable SEO (defects) detector</h5>
 
 <div align="center">
+  <a href="https://badge.fury.io/js/tiny-seo-detector">
+    <img src="https://badge.fury.io/js/tiny-seo-detector.svg" alt="npm version" height="18">
+  </a>
   <a href="https://travis-ci.org/poepanda/tiny-seo-detector">
     <img src="https://travis-ci.org/poepanda/tiny-seo-detector.svg?branch=master" alt="Travis CI" />
   </a>
@@ -219,6 +222,11 @@ myDetector.defects({
 ## API
 
 To be updated!
+
+## TODO
+
+- [ ] Add some examples
+- [ ] Update API section in README
 
 ## License
 
