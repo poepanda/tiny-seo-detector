@@ -4,13 +4,19 @@
   "description": "A simple SEO defect detector",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --verbose",
     "lint": "eslint .",
     "precommit": "npm run lint"
   },
   "env": {
     "es6": true,
     "node": true
+  },
+  "jest": {
+    "collectCoverageFrom": [ "**/lib/**/*.js" ],
+    "collectCoverage": true,
+    "coverageDirectory": "./coverage",
+    "roots": [ "test/" ]
   },
   "repository": {
     "type": "git",

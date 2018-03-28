@@ -25,8 +25,16 @@ Usage
 - [X] Messages handling and scale-ready
 
 *Tests*
-- [ ] Unit test - IO (Read + Write)
-- [ ] Unit test - Defects (Validating + rule defining)
-- [ ] Unit test - ultilities
-- [ ] Intergration tests
+- [X] Unit test - IO (Read + Write)
+- [X] Unit test - Defects (Validating + rule defining)
+- [X] Unit test - ultilities
+- [X] Intergration tests
 
+*Documentation*
+- [ ] README - status
+- [ ] README - How to install
+- [ ] README - How to use / configuration
+- [ ] README - Default configruation / rules definition
+- [ ] README - Rule template 
+- [ ] README - Define new rule
+- [ ] Add license file
