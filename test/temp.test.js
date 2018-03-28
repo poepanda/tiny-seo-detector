@@ -38,3 +38,7 @@
 // });
 // streamDetector.defects();
 // textDetector.defects();
+
+test('just a file to store sample! Nothing to test lah', function() {
+  expect(0).toBe(0);
+})
