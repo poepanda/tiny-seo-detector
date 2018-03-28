@@ -223,9 +223,10 @@ myDetector.defects({
 
 To be updated!
 
-## TODO
+## TODO?
 
 - [ ] Add some examples
+- [ ] Able to Define custom primitive rules/condition for more flexible rule composing
 - [ ] Update API section in README
 
 ## License
